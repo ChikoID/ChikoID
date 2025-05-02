@@ -1,5 +1,9 @@
 ![Chiko Banner](img/mybanner.png)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/chikoid/count.svg?"  />
+</div>
+
 #### Haii, Saya Chiko!
 
 Seorang programmer yang ingin fokus di dunia website.
