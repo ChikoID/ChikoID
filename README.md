@@ -39,11 +39,11 @@ Makasih udah kepo dan mampir ke profil saya, let’s connect yaa!
 ### Connect with me
 ![https://instagram.com/chikoma_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![https://www.chikoid.my.id](https://img.shields.io/badge/website-0871c1?style=for-the-badge&logo=globe&logoColor=white)
 
-# My Github Stats
+<!-- # My Github Stats
 
 Hidup itu seperti coding, kadang sukses kadang juga gagal. Yang penting, jangan pernah berhenti belajar dan terus mencoba.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChikoID&title_color=0871c1&text_color=c9d1d9&bg_color=0d1117&hide_border=false&border_radius=5&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChikoID&title_color=0871c1&text_color=c9d1d9&bg_color=0d1117&hide_border=false&border_radius=5&count_private=true) -->
 
 # Trophies
 
