@@ -1,8 +1,8 @@
 ![Chiko Banner](img/mybanner.png)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/chikoid/count.svg?"  />
-</div>
+</div> -->
 
 #### Haii, Saya Chiko!
 
